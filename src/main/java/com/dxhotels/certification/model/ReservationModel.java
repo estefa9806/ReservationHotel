@@ -8,24 +8,12 @@ public class ReservationModel {
     public String getLocation() {
         return location;
     }
-
-    public void setLocation(String location) {
-        this.location = location;
-    }
-
     public String getCheckIn() {
         return checkIn;
     }
-
-    public void setCheckIn(String checkIn) {
-        this.checkIn = checkIn;
-    }
-
     public String getCheckOut() {
         return checkOut;
     }
 
-    public void setCheckOut(String checkOut) {
-        this.checkOut = checkOut;
-    }
+
 }
